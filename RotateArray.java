@@ -3,10 +3,10 @@ public class RotateArray {
 
         int n = nums.length;
         k = k % n ;
-         //step -1
-         reverse(nums,0,n-1);
-         reverse(nums,0,k-1);
-         reverse(nums,k,n-1);
+         //step -1 curr -{1.2.3.4.5.6.7}
+         reverse(nums,0,n-1); //{7,6,5,4,3,2,1}
+         reverse(nums,0,k-1);//{5,6,7,4,3,2,1}
+         reverse(nums,k,n-1); //{5,6,7,1,2,3,4}
     }
     static void reverse(int[]nums,int start ,int end){
         while(start < end){
