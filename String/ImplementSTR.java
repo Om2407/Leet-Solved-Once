@@ -1,4 +1,4 @@
-public class ImplementstrSTR {
+public class ImplementSTR {
     public static int strstr(String heystack, String needle){
 
         if(needle.length() ==0)
