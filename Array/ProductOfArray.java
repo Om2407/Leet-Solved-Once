@@ -1,10 +1,10 @@
 public class ProductOfArray {
     //Pefix & Suffix problem
     public static void productOf(int nums[], int output[]){
-        int n = nums.length;
+        int n = nums.length;//4
 
         //prefix
-        int prefix[] = new int[n];
+        int prefix[] = new int[n];//size h 4
         prefix[0] = 1;
         for(int i=1; i<n; i++){
             prefix[i] = prefix[i-1] * nums[i-1];

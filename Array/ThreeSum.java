@@ -11,10 +11,11 @@ public class ThreeSum {
 
         Arrays.sort(nums);
 
-        for (int i = 0; i < n - 2; i++) {
+        for (int i = 0; i < n - 2; i++) { //0 to 2
 
             // Skip duplicate i
-            if (i > 0 && nums[i] == nums[i - 1]) continue;
+            if (i > 0 && nums[i] == nums[i - 1]) // [-1,-1,0,1,2]
+                continue;
 
             int left = i + 1;
             int right = n - 1;

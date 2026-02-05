@@ -19,3 +19,4 @@ public class MinimumRotatedSortArray {
         System.out.println(findMin(nums));
     }
 }
+//0utput: 0

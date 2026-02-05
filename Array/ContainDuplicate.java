@@ -4,10 +4,10 @@ public class ContainDuplicate {
 
         HashSet<Integer> set = new HashSet<>();
         for(int i=0; i<nums.length; i++){
-            if(set.contains(nums[i])){
+            if(set.contains(nums[i])){  //[1] false
                 return true;
             }
-            set.add(nums[i]);
+            set.add(nums[i]); //[1,...]
         }
         return false;
 }
