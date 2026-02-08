@@ -1,0 +1,10 @@
+1️⃣ Reverse Linked List – LC 206 (Easy)
+2️⃣ Merge Two Sorted Lists – LC 21 (Easy)
+3️⃣ Remove Duplicates from Sorted List – LC 83 (Easy)
+4️⃣ Linked List Cycle – LC 141 (Easy)
+5️⃣ Middle of the Linked List – LC 876 (Easy)
+6️⃣ Remove Nth Node From End of List – LC 19 (Medium)
+7️⃣ Palindrome Linked List – LC 234 (Easy / Medium)
+8️⃣ Intersection of Two Linked Lists – LC 160 (Easy)
+9️⃣ Linked List Cycle II – LC 142 (Medium)
+🔟 Reverse Linked List II – LC 92 (Medium)l
