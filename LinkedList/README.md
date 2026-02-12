@@ -2,7 +2,8 @@
 2️⃣ Middle of Linked List – LC 876 (Easy)
 3️⃣ Merge Two Sorted Lists – LC 21 (Easy)
 4️⃣ Remove Duplicates from Sorted List – LC 83 (Easy)
-5️⃣ Delete Node in Linked List – LC 237 (Easy)
+82. Remove Duplicates from Sorted List II--SELF
+5️⃣ Delete Node in Linked List – LC 237 (Medium)
 6️⃣ Linked List Cycle – LC 141 (Easy)
 7️⃣ Linked List Cycle II – LC 142 (Medium)
 8️⃣ Remove Nth Node From End – LC 19 (Medium)
@@ -12,4 +13,4 @@
 1️⃣2️⃣ Rotate List – LC 61 (Medium)
 1️⃣3️⃣ Odd Even Linked List – LC 328 (Medium)
 1️⃣4️⃣ Copy List with Random Pointer – LC 138 (Medium)
-1️⃣5️⃣ Reverse Nodes in K Group – LC 25 (Hard)
+1️⃣5️⃣ Reverse Nodes in K Group – LC 25 (Hard)        
