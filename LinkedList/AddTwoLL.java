@@ -39,9 +39,9 @@ public class AddTwoLL{
     }
     public static void printList(ListNode head){
         while(head!=null){
-            System.out.println(head.val);
+            System.out.print(head.val);
             if(head.next!=null){
-                System.out.print(" ->");
+                System.out.print(" -> ");
                
             }
              head = head.next;
@@ -59,7 +59,7 @@ public class AddTwoLL{
         l2.next.next = new ListNode(4);
 
         ListNode finalNode = AddTwo(l1, l2);
-        System.out.print("Result:");
+        System.out.print("Result : = ");
         printList(finalNode);
     }
 }

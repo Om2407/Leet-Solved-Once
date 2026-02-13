@@ -13,4 +13,5 @@
 1️⃣2️⃣ Rotate List – LC 61 (Medium)
 1️⃣3️⃣ Odd Even Linked List – LC 328 (Medium)
 1️⃣4️⃣ Copy List with Random Pointer – LC 138 (Medium)
-1️⃣5️⃣ Reverse Nodes in K Group – LC 25 (Hard)        
+1️⃣5️⃣ Reverse Nodes in K Group – LC 25 (Hard)     
+Reverse Linked List ll 92   
